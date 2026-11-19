@@ -5,6 +5,7 @@ An end-to-end enterprise data engineering and business intelligence project trac
 Built using **Python**, **`uv`**, **SQLAlchemy (`psycopg2-binary`)**, **PostgreSQL (`omniretail`)**, and **Tableau Public**.
 
 ---
+<img width="1249" height="999" alt="PLI Dashboard" src="https://github.com/user-attachments/assets/14891f76-b447-4004-8b24-f334144441cf" />
 
 ## Table of Contents
 
