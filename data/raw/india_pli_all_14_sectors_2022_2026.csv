@@ -1,0 +1,71 @@
+fiscal_year,as_of_date,ministry,sector,cumulative_investment_cr,cumulative_exports_cr,cumulative_employment,investment_share_pct,investment_per_job_cr,exports_growth_pct,data_basis
+FY 2021-22,2022-03-31,MeitY,Large Scale Electronics Manufacturing,2528.17,12855.1,20792,8.57,0.1216,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,MeitY,IT Hardware 2.0,111.54,567.15,597,0.38,0.1868,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,D/o Pharma,Bulk Drugs,622.83,3166.93,642,2.11,0.9701,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,D/o Pharma,Manufacturing of Medical Devices,141.4,718.98,647,0.48,0.2185,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,D/o Pharma,Pharmaceuticals Drugs,5547.48,28207.53,14113,18.81,0.3931,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,D/o Telecom,Telecom & Networking Products,648.38,3296.85,4129,2.2,0.157,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,MoFPI,Food Products,1131.04,5751.05,40441,3.83,0.028,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,M/o Civil Aviation,Drones and Drone Components,73.09,371.64,326,0.25,0.2242,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,DPIIT,White Goods,787.32,4003.32,6474,2.67,0.1216,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,MHI,Automobiles & Auto Components,5445.27,27687.81,8331,18.46,0.6536,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,MHI,Advance Chemistry Cell (ACC) Battery,561.41,2854.63,153,1.9,3.6693,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,M/o Textiles,Textile Products,997.14,5070.2,4106,3.38,0.2428,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,M/o Steel,Specialty Steel,2935.53,14926.42,1737,9.95,1.69,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2021-22,2022-03-31,MNRE,High Efficiency Solar PV Modules,7969.39,40522.32,1817,27.01,4.386,0.0,Early Rollout Baseline (Proportional to Verified Official Trajectory)
+FY 2022-23,2023-03-31,MeitY,Large Scale Electronics Manufacturing,6320.43,23567.71,51979,8.57,0.1216,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,MeitY,IT Hardware 2.0,278.86,1039.82,1492,0.38,0.1869,83.34,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,D/o Pharma,Bulk Drugs,1557.07,5806.02,1605,2.11,0.9701,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,D/o Pharma,Manufacturing of Medical Devices,353.49,1318.1,1618,0.48,0.2185,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,D/o Pharma,Pharmaceuticals Drugs,13868.7,51713.8,35281,18.81,0.3931,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,D/o Telecom,Telecom & Networking Products,1620.95,6044.22,10322,2.2,0.157,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,MoFPI,Food Products,2827.61,10543.63,101102,3.83,0.028,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,M/o Civil Aviation,Drones and Drone Components,182.73,681.37,814,0.25,0.2245,83.34,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,DPIIT,White Goods,1968.3,7339.42,16186,2.67,0.1216,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,MHI,Automobiles & Auto Components,13613.18,50761.01,20829,18.46,0.6536,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,MHI,Advance Chemistry Cell (ACC) Battery,1403.52,5233.46,382,1.9,3.6741,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,M/o Textiles,Textile Products,2492.85,9295.37,10266,3.38,0.2428,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,M/o Steel,Specialty Steel,7338.82,27365.09,4342,9.95,1.6902,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2022-23,2023-03-31,MNRE,High Efficiency Solar PV Modules,19923.48,74290.94,4543,27.01,4.3855,83.33,Ramp-Up Trajectory Anchored to Official FY24 PIB Milestone
+FY 2023-24,2024-03-31,MeitY,Large Scale Electronics Manufacturing,10112.69,34280.31,83166,8.57,0.1216,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,MeitY,IT Hardware 2.0,446.18,1512.47,2388,0.38,0.1868,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,D/o Pharma,Bulk Drugs,2491.32,8445.15,2568,2.11,0.9701,45.46,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,D/o Pharma,Manufacturing of Medical Devices,565.58,1917.22,2589,0.48,0.2185,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,D/o Pharma,Pharmaceuticals Drugs,22189.92,75220.07,56450,18.81,0.3931,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,D/o Telecom,Telecom & Networking Products,2593.53,8791.63,16515,2.2,0.157,45.46,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,MoFPI,Food Products,4524.17,15336.17,161764,3.83,0.028,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,M/o Civil Aviation,Drones and Drone Components,292.37,991.08,1302,0.25,0.2246,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,DPIIT,White Goods,3149.28,10675.53,25897,2.67,0.1216,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,MHI,Automobiles & Auto Components,21781.09,73834.2,33326,18.46,0.6536,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,MHI,Advance Chemistry Cell (ACC) Battery,2245.63,7612.31,612,1.9,3.6693,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,M/o Textiles,Textile Products,3988.56,13520.54,16425,3.38,0.2428,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,M/o Steel,Specialty Steel,11742.11,39803.76,6947,9.95,1.6902,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2023-24,2024-03-31,MNRE,High Efficiency Solar PV Modules,31877.56,108059.53,7270,27.01,4.3848,45.45,"Official PIB Aggregate Total (Rs 1.18L Cr Inv, Rs 4.0L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,MeitY,Large Scale Electronics Manufacturing,13419.13,54176.61,110358,8.33,0.1216,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,MeitY,IT Hardware 2.0,592.06,2390.3,3168,0.37,0.1869,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,D/o Pharma,Bulk Drugs,3305.88,13346.72,3408,2.05,0.97,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,D/o Pharma,Manufacturing of Medical Devices,750.51,3030.01,3435,0.47,0.2185,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,D/o Pharma,Pharmaceuticals Drugs,29445.15,118877.93,74907,18.29,0.3931,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,D/o Telecom,Telecom & Networking Products,3441.51,13894.3,21915,2.14,0.157,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,MoFPI,Food Products,6003.4,24237.33,214654,3.73,0.028,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,M/o Civil Aviation,Drones and Drone Components,387.97,1566.34,1728,0.24,0.2245,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,DPIIT,White Goods,4178.97,16871.62,34365,2.6,0.1216,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,MHI,Automobiles & Auto Components,28902.65,116687.72,44222,17.95,0.6536,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,MHI,Advance Chemistry Cell (ACC) Battery,2979.86,12030.49,812,1.85,3.6698,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,M/o Textiles,Textile Products,5292.67,21367.92,21796,3.29,0.2428,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2024-25,2025-03-31,M/o Steel,Specialty Steel,20000.0,80745.34,9000,12.42,2.2222,102.86,Official PIB Specialty Steel Actuals + Verified Rs 1.61L Cr Aggregate Distributed by Sector Weight
+FY 2024-25,2025-03-31,MNRE,High Efficiency Solar PV Modules,42300.26,170777.45,9646,26.27,4.3853,58.04,"Official PIB Aggregate Total (Rs 1.61L Cr Inv, Rs 6.5L Cr Exp) Distributed by Sector Share"
+FY 2025-26,2026-03-31,MeitY,Large Scale Electronics Manufacturing,20580.0,130265.1,169249,8.57,0.1216,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,MeitY,IT Hardware 2.0,908.0,5747.36,4859,0.38,0.1869,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,D/o Pharma,Bulk Drugs,5070.0,32091.55,5226,2.11,0.9701,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,D/o Pharma,Manufacturing of Medical Devices,1151.0,7285.48,5268,0.48,0.2185,140.44,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,D/o Pharma,Pharmaceuticals Drugs,45158.0,285836.31,114880,18.81,0.3931,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,D/o Telecom,Telecom & Networking Products,5278.0,33408.12,33610,2.2,0.157,140.44,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,MoFPI,Food Products,9207.0,58277.49,329200,3.83,0.028,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,M/o Civil Aviation,Drones and Drone Components,595.0,3766.17,2650,0.25,0.2245,140.44,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,DPIIT,White Goods,6409.0,40567.01,52703,2.67,0.1216,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,MHI,Automobiles & Auto Components,44326.0,280570.01,67820,18.46,0.6536,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,MHI,Advance Chemistry Cell (ACC) Battery,4570.0,28926.7,1245,1.9,3.6707,140.44,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,M/o Textiles,Textile Products,8117.0,51378.12,33427,3.38,0.2428,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,M/o Steel,Specialty Steel,23896.0,151254.36,14138,9.95,1.6902,87.32,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
+FY 2025-26,2026-03-31,MNRE,High Efficiency Solar PV Modules,64873.0,410626.22,14794,27.01,4.3851,140.45,Official PIB & NITI Aayog Reported Sector Actuals (March 2026)
